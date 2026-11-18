@@ -1,10 +1,15 @@
 # Backend Development Fundamentals — Laboratory Repository
 
-**College:** Aurora College  
-**Faculty:** Joel Prashanth D  
-**Student:** Anil Kumar Regula  
-**Registration Number:** [ADD YOUR REGISTRATION NUMBER]  
-**Section:** [ADD YOUR SECTION]  
+## 📋 Student Information
+
+| Field | Details |
+| :--- | :--- |
+| **Name** | Anil Kumar Regula |
+| **Registration Number** | 252U1R1221 |
+| **Section** | CSE-2E 211 |
+| **Course** | Backend Development Fundamentals · Year II Term II |
+| **Faculty** | Mr Yugandhar Gurjalwar |
+| **College** | Aurora Deemed-to-be-University |  
 
 ---
 

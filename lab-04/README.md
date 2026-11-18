@@ -1,14 +1,15 @@
 # Lab 4: Registration, Login and JWT
 
-## Student Information
-- **Student Name:** Anil Kumar Regula
-- **Registration Number:** [ADD YOUR REGISTRATION NUMBER]
-- **Section:** [ADD YOUR SECTION]
-- **College:** Aurora College
-- **Faculty:** Joel Prashanth D
-- **Subject:** Backend Development Fundamentals
-- **Lab Number:** Lab 4
-- **Module:** Authentication and User Management
+## 📋 Student Information
+
+| Field | Details |
+| :--- | :--- |
+| **Name** | Anil Kumar Regula |
+| **Registration Number** | 252U1R1221 |
+| **Section** | CSE-2E 211 |
+| **Course** | Backend Development Fundamentals · Year II Term II |
+| **Faculty** | Mr Yugandhar Gurjalwar |
+| **College** | Aurora Deemed-to-be-University |
 
 ---
 
