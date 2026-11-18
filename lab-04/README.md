@@ -426,17 +426,13 @@ Follow these steps in Postman to capture test screenshots:
 
 ## 11. Test Screenshots
 
-Add the Postman screenshots to the `screenshots/` directory using these filenames:
+The Postman testing screenshots demonstrating API functionality:
 
 | Test Case | Screenshot |
 | :--- | :--- |
-| **01. Successful Registration** | ![Registration Success](screenshots/01_register_success.png) |
-| **02. Duplicate Username Registration** | ![Duplicate User](screenshots/02_register_duplicate.png) |
-| **03. Registration Missing Fields** | ![Missing Fields Registration](screenshots/03_register_missing_fields.png) |
-| **04. Successful Login & JWT Token** | ![Login Success](screenshots/04_login_success.png) |
-| **05. Login with Wrong Password** | ![Wrong Password](screenshots/05_login_wrong_password.png) |
-| **06. Login with Unknown Username** | ![Unknown User](screenshots/06_login_unknown_user.png) |
-| **07. Login Missing Fields** | ![Missing Fields Login](screenshots/07_login_missing_fields.png) |
+| **01. Successful Registration (201 Created)** | ![Registration Success](screenshots/01_register_success.png) |
+| **02. Successful Login & JWT Token Generation (200 OK)** | ![Login Success](screenshots/04_login_success.png) |
+| **03. Login Response & Token Verification** | ![Login Verification](screenshots/05_login_jwt_token.png) |
 
 ---
 
